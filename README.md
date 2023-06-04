@@ -4,7 +4,7 @@
 * Defined profiles of stocks based on the cluster groups and the attributes and characteristics of these stocks to help decision makers with identifying the best stocks for investment
 
 ## Code and Resources 
-**Python version:** 8.2.0
+**Python version:** 3.9.12
 
 **Packages:** pandas, numpy, matplotlib, seaborn, sklearn, scipy, yellowbrick
 
